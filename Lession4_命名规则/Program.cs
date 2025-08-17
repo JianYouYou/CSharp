@@ -17,7 +17,7 @@
             //规则：
             //驼峰命名法：第一个单词小写，之后的单词首字母大写
             string myName = "简由由";
-            string myReallyName = "殷超越"
+            string myReallyName = "殷超越";
             //帕斯卡命名法：所有单词首字母大写 (一般用在函数、类的命名)
             string MyName = "简由由";
             #endregion

@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession2_title", "Lession2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession3_变量本质", "Lession3_变量本质\Lession3_变量本质.csproj", "{836AC2FE-F865-4228-8B15-9A5DDEC69498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lession4_命名规则", "lession4_命名规则\lession4_命名规则.csproj", "{0F4CA342-52B2-4E94-A81F-5D963B31AC47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession4_命名规则", "lession4_命名规则\Lession4_命名规则.csproj", "{0F4CA342-52B2-4E94-A81F-5D963B31AC47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession5_常量", "Lession5_常量\Lession5_常量.csproj", "{AFCFF4A5-043D-4567-A390-8401F787E005}"
 EndProject
@@ -35,8 +35,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession13_条件运算符",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession14_逻辑运算符", "Lession14_逻辑运算符\Lession14_逻辑运算符.csproj", "{BC7CB122-0A79-4196-BA44-D6DC49164CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession15_位运算符", "Lesssion15_位运算符\Lession15_位运算符.csproj", "{75A54902-1DE5-41BA-AF5C-1558B18181E8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession16_三目运算符", "Lession16_三目运算符\Lession16_三目运算符.csproj", "{446B0B1F-D4FE-42F0-82CB-6C1B2F119E14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession17_if语句", "Lession17_if语句\Lession17_if语句.csproj", "{592B2107-DED5-42E2-A498-85F1354189E5}"
@@ -51,7 +49,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession21_for循环语句",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession21_控制台相关代码", "Lession21_控制台相关代码\Lession21_控制台相关代码.csproj", "{3BF08C30-6FD5-4C31-B481-FA790B947B36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Title1_通过W A S D控制一个黄色方块移动", "Test1_通过W A S D控制一个黄色方块移动\Title1_通过W A S D控制一个黄色方块移动.csproj", "{CEF8C34D-1906-457C-AFD9-A8BFA936D738}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execise1_通过W A S D控制一个黄色方块移动", "Test1_通过W A S D控制一个黄色方块移动\Execise1_通过W A S D控制一个黄色方块移动.csproj", "{CEF8C34D-1906-457C-AFD9-A8BFA936D738}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession22_随机数", "Lession22_随机数\Lession22_随机数.csproj", "{D2D47E3A-24B9-40DF-A858-002D4FA28DE2}"
 EndProject
@@ -125,10 +123,6 @@ Global
 		{BC7CB122-0A79-4196-BA44-D6DC49164CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC7CB122-0A79-4196-BA44-D6DC49164CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC7CB122-0A79-4196-BA44-D6DC49164CC5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{75A54902-1DE5-41BA-AF5C-1558B18181E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75A54902-1DE5-41BA-AF5C-1558B18181E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75A54902-1DE5-41BA-AF5C-1558B18181E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75A54902-1DE5-41BA-AF5C-1558B18181E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{446B0B1F-D4FE-42F0-82CB-6C1B2F119E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{446B0B1F-D4FE-42F0-82CB-6C1B2F119E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{446B0B1F-D4FE-42F0-82CB-6C1B2F119E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
