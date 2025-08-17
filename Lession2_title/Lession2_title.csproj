@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Lession13_条件运算符\Lession13_条件运算符.csproj" />
+  </ItemGroup>
+
 </Project>
