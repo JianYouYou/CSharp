@@ -47,7 +47,7 @@
             //bool和string
             //这两种都不能通过括号方式进行强转
             #endregion
-
+            //1
             #region Parse法
             //作用 专门把字符串转换成对应的类型
             //用法 变量类型.Parse("字符串")
