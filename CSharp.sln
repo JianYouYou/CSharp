@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execise1_通过W A S D控�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execise2_唐老狮打小怪兽", "Execise2_唐老狮打小怪兽\Execise2_唐老狮打小怪兽.csproj", "{FF370F49-6A23-412E-812B-6ED93038EAF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execise3_营救公主", "Execise3_营救公主\Execise3_营救公主.csproj", "{98151B10-3F9A-48FE-AE0D-83D54C4CDDA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{FF370F49-6A23-412E-812B-6ED93038EAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF370F49-6A23-412E-812B-6ED93038EAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF370F49-6A23-412E-812B-6ED93038EAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98151B10-3F9A-48FE-AE0D-83D54C4CDDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98151B10-3F9A-48FE-AE0D-83D54C4CDDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98151B10-3F9A-48FE-AE0D-83D54C4CDDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98151B10-3F9A-48FE-AE0D-83D54C4CDDA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
