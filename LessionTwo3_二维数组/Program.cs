@@ -87,8 +87,7 @@
                 }
             }
             //6.删除数组的元素
-
-            //6.1 只删除后面的
+            //删除后面的
             Console.WriteLine("************************");
             int[,] array2 = new int[2, 3];
             for (int i = 0; i < 2; i++)
@@ -106,20 +105,38 @@
                     Console.WriteLine(array[i, j]);
                 }
             }
-            //想删除某位置的元素 只要将循环条件改变 就能实现特定的删除元素
-            //比如 想删除第1列的第2行元素
+            //删除整行
+            Console.WriteLine("************************");
             int[,] array3 = new int[2, 3];
-            for(int i = 1;i < 2; i++)
+            //删除哪一行 就令列等于几
+            for (int j = 0; j < 3; j++)
             {
-                for(int j = 2;j < 3; j++)
+                array3[0, j] = 0;
+            }
+            array = array3;
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
                 {
-                    array3[i,j] = array[i,j+1];
+                    Console.WriteLine(array[i, j]);
                 }
             }
-            //6.2 只删除前面的
-            //6.3 只删除中间的
-            //7.查找数组的元素
+            //删除整列同理
 
+            //7.查找数组的元素
+            //遍历数组并加上if函数
+            Console.WriteLine("************************");
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine(array1[i, j]);
+                    if (array1[i,j] == 3)
+                    {
+                        Console.WriteLine("值为3的元素在第{0}行第{1}列.",i,j);
+                    }
+                }
+            }
             #endregion
         }
     }
