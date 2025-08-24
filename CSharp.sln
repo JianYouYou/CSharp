@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo5_值和引用类
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo6_特殊的引用类型", "LessionTwo6_特殊的引用类型\LessionTwo6_特殊的引用类型.csproj", "{0292E1A8-2C50-40E6-8596-E5150C80673D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo7_函数基础", "LessionTwo7_函数基础\LessionTwo7_函数基础.csproj", "{0B95E4C8-D576-4A43-AA27-F2250789CD16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B95E4C8-D576-4A43-AA27-F2250789CD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B95E4C8-D576-4A43-AA27-F2250789CD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B95E4C8-D576-4A43-AA27-F2250789CD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B95E4C8-D576-4A43-AA27-F2250789CD16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
