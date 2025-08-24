@@ -65,6 +65,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo3_二维数组", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo4_交错数组", "LessionTwo4_交错数组\LessionTwo4_交错数组.csproj", "{96CBA2D4-A1B9-4C2B-8018-4AC06AC844C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo5_值和引用类型", "LessionTwo5_值和引用类型\LessionTwo5_值和引用类型.csproj", "{BC05CED5-3F07-4DE1-BF5E-668B8EEB6254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo6_特殊的引用类型", "LessionTwo6_特殊的引用类型\LessionTwo6_特殊的引用类型.csproj", "{0292E1A8-2C50-40E6-8596-E5150C80673D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +199,14 @@ Global
 		{96CBA2D4-A1B9-4C2B-8018-4AC06AC844C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96CBA2D4-A1B9-4C2B-8018-4AC06AC844C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96CBA2D4-A1B9-4C2B-8018-4AC06AC844C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC05CED5-3F07-4DE1-BF5E-668B8EEB6254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC05CED5-3F07-4DE1-BF5E-668B8EEB6254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC05CED5-3F07-4DE1-BF5E-668B8EEB6254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC05CED5-3F07-4DE1-BF5E-668B8EEB6254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0292E1A8-2C50-40E6-8596-E5150C80673D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
