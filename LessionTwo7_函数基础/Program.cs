@@ -58,7 +58,8 @@
         static void Speak(int i)
         {
             if(i == 0)
-            { 
+            {
+                Console.WriteLine("跳过了后面的代码");
                 return; 
             }
             Console.WriteLine("没有跳过代码");
