@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo7_函数基础", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo8_ref和out", "LessionTwo8_ref和out\LessionTwo8_ref和out.csproj", "{AEA0D012-ACBA-4E4C-834F-C12B0B197F0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo9_变长参数和参数默认值", "LessionTwo9_变长参数和参数默认值\LessionTwo9_变长参数和参数默认值.csproj", "{186BF7CD-A60C-4228-8CC4-D9826AAE9D91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{AEA0D012-ACBA-4E4C-834F-C12B0B197F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEA0D012-ACBA-4E4C-834F-C12B0B197F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEA0D012-ACBA-4E4C-834F-C12B0B197F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186BF7CD-A60C-4228-8CC4-D9826AAE9D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186BF7CD-A60C-4228-8CC4-D9826AAE9D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186BF7CD-A60C-4228-8CC4-D9826AAE9D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186BF7CD-A60C-4228-8CC4-D9826AAE9D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
