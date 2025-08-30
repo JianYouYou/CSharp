@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo11_递归函数",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo12_结构体", "LessionTwo12_结构体\LessionTwo12_结构体.csproj", "{44BF93D8-9708-4798-8C00-116C25E75B5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo13_冒泡排序", "LessionTwo13_冒泡排序\LessionTwo13_冒泡排序.csproj", "{34CF4B80-8E7E-4262-9163-6EC132B769F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo14_选择排序", "LessionTwo14_选择排序\LessionTwo14_选择排序.csproj", "{61703ECC-14AA-4981-8916-5C711A0ED617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +247,14 @@ Global
 		{44BF93D8-9708-4798-8C00-116C25E75B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BF93D8-9708-4798-8C00-116C25E75B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BF93D8-9708-4798-8C00-116C25E75B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CF4B80-8E7E-4262-9163-6EC132B769F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CF4B80-8E7E-4262-9163-6EC132B769F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CF4B80-8E7E-4262-9163-6EC132B769F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CF4B80-8E7E-4262-9163-6EC132B769F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61703ECC-14AA-4981-8916-5C711A0ED617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61703ECC-14AA-4981-8916-5C711A0ED617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61703ECC-14AA-4981-8916-5C711A0ED617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61703ECC-14AA-4981-8916-5C711A0ED617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
