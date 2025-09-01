@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo13_冒泡排序",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionTwo14_选择排序", "LessionTwo14_选择排序\LessionTwo14_选择排序.csproj", "{61703ECC-14AA-4981-8916-5C711A0ED617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere1_类和对象", "LessionThere1_类和对象\LessionThere1_类和对象.csproj", "{00C214A1-ABEE-4368-AF23-8ED8AAC84802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere2_成员变量和访问修饰符", "LessionThere2_成员变量和访问修饰符\LessionThere2_成员变量和访问修饰符.csproj", "{ED2B2001-09C3-4CAF-B9D5-5FD62C584963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +259,14 @@ Global
 		{61703ECC-14AA-4981-8916-5C711A0ED617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61703ECC-14AA-4981-8916-5C711A0ED617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61703ECC-14AA-4981-8916-5C711A0ED617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C214A1-ABEE-4368-AF23-8ED8AAC84802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C214A1-ABEE-4368-AF23-8ED8AAC84802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C214A1-ABEE-4368-AF23-8ED8AAC84802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C214A1-ABEE-4368-AF23-8ED8AAC84802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2B2001-09C3-4CAF-B9D5-5FD62C584963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2B2001-09C3-4CAF-B9D5-5FD62C584963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2B2001-09C3-4CAF-B9D5-5FD62C584963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2B2001-09C3-4CAF-B9D5-5FD62C584963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
