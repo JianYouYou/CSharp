@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere8_静态类和�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere9_拓展方法", "LessionThere9_拓展方法\LessionThere9_拓展方法.csproj", "{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere10_运算符重载", "LessionThere10_运算符重载\LessionThere10_运算符重载.csproj", "{9F17F379-29AA-4E0D-B89E-98707BCBD82E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F17F379-29AA-4E0D-B89E-98707BCBD82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F17F379-29AA-4E0D-B89E-98707BCBD82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F17F379-29AA-4E0D-B89E-98707BCBD82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F17F379-29AA-4E0D-B89E-98707BCBD82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -369,6 +375,7 @@ Global
 		{C92DF9F7-29CB-4FAC-95F3-1E1E8525D718} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{8A54ED62-293C-4CE8-93DE-56D86F597EFC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6DA9833-04CD-451B-94A7-E6A2AFB1C2B8}
