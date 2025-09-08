@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere6_索引器", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere7_静态成员", "LessionThere7_静态成员\LessionThere7_静态成员.csproj", "{8A54ED62-293C-4CE8-93DE-56D86F597EFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere8_静态类和静态构造函数", "LessionThere8_静态类和静态构造函数\LessionThere8_静态类和静态构造函数.csproj", "{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere9_拓展方法", "LessionThere9_拓展方法\LessionThere9_拓展方法.csproj", "{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +307,14 @@ Global
 		{8A54ED62-293C-4CE8-93DE-56D86F597EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A54ED62-293C-4CE8-93DE-56D86F597EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A54ED62-293C-4CE8-93DE-56D86F597EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F512CA98-C1B8-4A65-9AC4-E17D247EDC05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,6 +367,8 @@ Global
 		{7ADD54E1-70D2-4278-BC89-7AF287B979FE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{32C7E2E5-0035-4042-AC0C-1F117BA54F5A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C92DF9F7-29CB-4FAC-95F3-1E1E8525D718} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8A54ED62-293C-4CE8-93DE-56D86F597EFC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5F9C8A06-25FA-4DF1-ADA6-7E942915F3CD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6DA9833-04CD-451B-94A7-E6A2AFB1C2B8}
