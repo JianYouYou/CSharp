@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere21_命名空间
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere22_万物之父中的方法", "LessionThere22_万物之父中的方法\LessionThere22_万物之父中的方法.csproj", "{B0191946-5F74-460E-9D6B-9D9488479160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionThere23_String", "LessionThere23_String\LessionThere23_String.csproj", "{C6FBFB6B-030D-4B7D-B765-7313F46682B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{B0191946-5F74-460E-9D6B-9D9488479160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0191946-5F74-460E-9D6B-9D9488479160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0191946-5F74-460E-9D6B-9D9488479160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FBFB6B-030D-4B7D-B765-7313F46682B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FBFB6B-030D-4B7D-B765-7313F46682B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FBFB6B-030D-4B7D-B765-7313F46682B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FBFB6B-030D-4B7D-B765-7313F46682B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
