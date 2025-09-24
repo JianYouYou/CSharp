@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour4_Hashtable", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour5_泛型", "LessionFour5_泛型\LessionFour5_泛型.csproj", "{9FF679A1-9CB0-49E9-AEEE-8E9FF93A53B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L泛型约束", "L泛型约束\L泛型约束.csproj", "{3C763E31-44B5-40DA-8A87-94E25858DDF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -445,6 +447,10 @@ Global
 		{9FF679A1-9CB0-49E9-AEEE-8E9FF93A53B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FF679A1-9CB0-49E9-AEEE-8E9FF93A53B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FF679A1-9CB0-49E9-AEEE-8E9FF93A53B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C763E31-44B5-40DA-8A87-94E25858DDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C763E31-44B5-40DA-8A87-94E25858DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C763E31-44B5-40DA-8A87-94E25858DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C763E31-44B5-40DA-8A87-94E25858DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
