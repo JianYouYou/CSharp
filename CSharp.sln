@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour8_Dictionary", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour6_泛型约束", "LessionFour6_泛型约束\LessionFour6_泛型约束.csproj", "{2F917568-B429-F241-8358-9CC3F8EC2E30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour9_顺序存储和链式存储", "LessionFour9_顺序存储和链式存储\LessionFour9_顺序存储和链式存储.csproj", "{679AF1C8-AFF7-46A1-87A8-9F5EC6660BE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -463,6 +465,10 @@ Global
 		{2F917568-B429-F241-8358-9CC3F8EC2E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F917568-B429-F241-8358-9CC3F8EC2E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F917568-B429-F241-8358-9CC3F8EC2E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679AF1C8-AFF7-46A1-87A8-9F5EC6660BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679AF1C8-AFF7-46A1-87A8-9F5EC6660BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679AF1C8-AFF7-46A1-87A8-9F5EC6660BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679AF1C8-AFF7-46A1-87A8-9F5EC6660BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
