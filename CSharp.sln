@@ -177,6 +177,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour15_lambad", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour16_List排序", "LessionFour16_List排序\LessionFour16_List排序.csproj", "{ACE53625-6180-443A-AB8D-95BD66D57876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour17_协变逆变", "LessionFour17_协变逆变\LessionFour17_协变逆变.csproj", "{78DFCE35-23A1-4D80-A462-D8748CE9D78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessionFour18_多线程", "LessionFour18_多线程\LessionFour18_多线程.csproj", "{6CC69D92-F3D0-44F5-8DDE-2F7F39100D7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -511,6 +515,14 @@ Global
 		{ACE53625-6180-443A-AB8D-95BD66D57876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE53625-6180-443A-AB8D-95BD66D57876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE53625-6180-443A-AB8D-95BD66D57876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DFCE35-23A1-4D80-A462-D8748CE9D78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DFCE35-23A1-4D80-A462-D8748CE9D78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DFCE35-23A1-4D80-A462-D8748CE9D78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DFCE35-23A1-4D80-A462-D8748CE9D78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC69D92-F3D0-44F5-8DDE-2F7F39100D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC69D92-F3D0-44F5-8DDE-2F7F39100D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC69D92-F3D0-44F5-8DDE-2F7F39100D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC69D92-F3D0-44F5-8DDE-2F7F39100D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
